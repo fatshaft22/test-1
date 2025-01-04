@@ -1,10 +1,7 @@
 #gitgub test
 
-this has worked if you are seeing this!
+##different branches
 
-now edit it 
+1. open index.html in your browser
 
-
-##subheader
-
-can you do it after a few days?
+ftp
